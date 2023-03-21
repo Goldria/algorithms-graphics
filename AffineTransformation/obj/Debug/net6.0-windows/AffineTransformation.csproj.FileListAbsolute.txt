@@ -1,0 +1,17 @@
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\bin\Debug\net6.0-windows\AffineTransformation.exe
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\bin\Debug\net6.0-windows\AffineTransformation.deps.json
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\bin\Debug\net6.0-windows\AffineTransformation.runtimeconfig.json
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\bin\Debug\net6.0-windows\AffineTransformation.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\bin\Debug\net6.0-windows\AffineTransformation.pdb
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.csproj.AssemblyReference.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.Form1.resources
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.csproj.GenerateResource.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.AssemblyInfoInputs.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.AssemblyInfo.cs
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.csproj.CoreCompileInputs.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\refint\AffineTransformation.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.pdb
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\AffineTransformation.genruntimeconfig.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\AffineTransformation\obj\Debug\net6.0-windows\ref\AffineTransformation.dll
