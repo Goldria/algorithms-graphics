@@ -1,0 +1,34 @@
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.csproj.AssemblyReference.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.MainForm.resources
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.csproj.GenerateResource.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.AssemblyInfoInputs.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.AssemblyInfo.cs
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.csproj.CoreCompileInputs.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\FloodFill.exe
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\FloodFill.deps.json
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\FloodFill.runtimeconfig.json
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\FloodFill.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\FloodFill.pdb
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\refint\FloodFill.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.pdb
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\FloodFill.genruntimeconfig.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\ref\FloodFill.dll
+D:\MyRepo\FloodFill\bin\Debug\net6.0-windows\FloodFill.exe
+D:\MyRepo\FloodFill\bin\Debug\net6.0-windows\FloodFill.deps.json
+D:\MyRepo\FloodFill\bin\Debug\net6.0-windows\FloodFill.runtimeconfig.json
+D:\MyRepo\FloodFill\bin\Debug\net6.0-windows\FloodFill.dll
+D:\MyRepo\FloodFill\bin\Debug\net6.0-windows\FloodFill.pdb
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.csproj.AssemblyReference.cache
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.MainForm.resources
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.csproj.GenerateResource.cache
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.AssemblyInfoInputs.cache
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.AssemblyInfo.cs
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.csproj.CoreCompileInputs.cache
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.dll
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\refint\FloodFill.dll
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.pdb
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\FloodFill.genruntimeconfig.cache
+D:\MyRepo\FloodFill\obj\Debug\net6.0-windows\ref\FloodFill.dll

@@ -1,0 +1,17 @@
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.csproj.AssemblyReference.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.csproj.GenerateResource.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.AssemblyInfoInputs.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.AssemblyInfo.cs
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.csproj.CoreCompileInputs.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\SeededFills.exe
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\SeededFills.deps.json
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\SeededFills.runtimeconfig.json
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\SeededFills.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\bin\Debug\net6.0-windows\SeededFills.pdb
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\refint\SeededFills.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.pdb
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.genruntimeconfig.cache
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\ref\SeededFills.dll
+D:\ЮУрГУ\Алгоритмы и методы представления графической информации\SeededFills\obj\Debug\net6.0-windows\SeededFills.FormForFill.resources
