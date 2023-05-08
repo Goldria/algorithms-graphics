@@ -1,0 +1,17 @@
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\bin\Debug\net6.0-windows\SplineCurves.exe
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\bin\Debug\net6.0-windows\SplineCurves.deps.json
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\bin\Debug\net6.0-windows\SplineCurves.runtimeconfig.json
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\bin\Debug\net6.0-windows\SplineCurves.dll
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\bin\Debug\net6.0-windows\SplineCurves.pdb
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.csproj.AssemblyReference.cache
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.csproj.GenerateResource.cache
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.GeneratedMSBuildEditorConfig.editorconfig
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.AssemblyInfoInputs.cache
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.AssemblyInfo.cs
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.csproj.CoreCompileInputs.cache
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.dll
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\refint\SplineCurves.dll
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.pdb
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.genruntimeconfig.cache
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\ref\SplineCurves.dll
+D:\ЮУрГУ\4 семестр\Алгоритмы и методы представления графической информации\SplineCurves\obj\Debug\net6.0-windows\SplineCurves.MainForm.resources
